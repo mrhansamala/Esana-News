@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=100px height=100px src="Esana.png" alt="Esana"></a>
+ <img width=200px height=200px src="Esana.png" alt="Esana"></a>
 </p>
 
 <h2 align="center">Esana News Scraper</h2>
