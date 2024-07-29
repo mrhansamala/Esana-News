@@ -192,4 +192,4 @@ await api.clear_loop()
 ```
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@mrhansamalaj](https://github.com/mrhansamala) - scraped author
+- [@mrhansamala](https://github.com/mrhansamala) - scraped author
