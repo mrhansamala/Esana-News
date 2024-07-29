@@ -40,19 +40,19 @@ These instructions will get you a copy of the project up and running on your loc
 
 
 ```sh
-yarn add @mrhansamala/esana-news
+yarn add esana-news-scraper
 ```
 
 or
 
 ```sh
-npm i @mrhansamala/esana-news
+npm i esana-news-scraper
 ```
 
 ## 🎈 Usage <a name="usage"></a>
 
 ```ts
-const Esana = require('@mrhansamala/esana-news')
+const Esana = require('esana-news-scraper')
 
 var api = new Esana()
 ```
